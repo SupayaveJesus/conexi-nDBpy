@@ -1,4 +1,3 @@
-# conexi-nDBpy
 Aplicación de Registro de Estudiantes:
 desarrollar una aplicacion que permita el registro de estudiantes y sus respectivas notas en varias materias, cuyos datos deben estar almacenados en una base de datos cumpliendo  los siguientes  requerimientos:
 - cada estudiante debe tener un registro unico con un numero de identificacion, nombre completo, fecha de nacimiento y carrera a la que pertenece.
